@@ -3,6 +3,6 @@ print("agujas color","de cafe",end="\n")
 print("")
 print("Mi", "nombre", "es", sep="_", end="*")
 print("Monty","\n", "Python.", sep="*")
-print("Mi", "nombre","es")
-
-
+print()
+print(0o123)
+print(0x123)
